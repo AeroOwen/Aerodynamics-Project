@@ -255,3 +255,4 @@ for i = 1:M   % scan panels' vortices
     end
     
 end
+fprintf('CL = %.6f\nCMLE = %.6f\nCH = %.6f\n', CL, CMLE, CH);
